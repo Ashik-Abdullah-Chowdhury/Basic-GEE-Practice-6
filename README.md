@@ -1,7 +1,5 @@
 # **Exploring Group Reducers in Google Earth Engine**
 
----
-
 
 Google Earth Engine (GEE) is a powerful platform for environmental data analysis and geospatial processing. One of the key features of GEE is its ability to perform grouped reductions, which are essential for zonal statistics and spatial analysis. A group reducer in GEE allows users to aggregate data within zones defined by an image or feature collection. This functionality is crucial for tasks such as calculating the total population within different administrative areas or assessing land cover changes within specific ecological zones.We did some homework on this topic and the results are ahown below:
 
